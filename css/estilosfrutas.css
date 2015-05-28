@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+#paginainiciofrutas
+{background:#0F9}
+#titulo
+{background:#0F9 ; color:#F33}        
+#pienombre
+{background:#0CF ; color:#00F}
+#introduccion
+{color:#000 ; size:3 ; text-align:justify ; background:#099 ; margin:3%}
+#encabezado
+{background:#FC0 ; color:#00C}
+#textos
+{color:#000 ; size:3 ; text-align:justify ; background:#0CC ; margin:3%}
+#piepaginas
+{background:#003 ; color:#F06}
+#encabezado2
+{background:#F03;color:#939}
+#piedepagina2
+{background:#C3C;color:#FC6
